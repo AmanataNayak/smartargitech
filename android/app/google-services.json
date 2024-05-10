@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "375598279832",
+    "firebase_url": "https://smart-agritech-d8120-default-rtdb.firebaseio.com",
+    "project_id": "smart-agritech-d8120",
+    "storage_bucket": "smart-agritech-d8120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375598279832:android:c4d1967613062f8b7574ed",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GhwfejXiMQ9WV88Ramf2JUXmnC2pVdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
